@@ -235,4 +235,4 @@ This repository serves as the official landing page for Showroom. The software i
 **Get the most recent version of Showroom today!**
 
 ---
-**Last updated:** 2026-09-25 13:25:58 UTC
+**Last updated:** 2026-09-25 18:21:00 UTC
